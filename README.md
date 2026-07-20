@@ -3,7 +3,7 @@
 Computer Science student at Manchester Metropolitan University (First Class average) and full-stack developer, currently building a **computer vision rock climbing assistant** with a **React Native** frontend, **FastAPI** backend, and a custom-trained **YOLO segmentation model**.
 
 - 🔭 Currently working on: an ML-powered climbing app (React Native · FastAPI · YOLO · Celery/Redis)
-- 🌱 Currently learning: Kubernetes and scalable system design
+- 🌱 Currently learning: Scalable system design
 - 👯 Open to collaborating on open-source and web development projects
 - 💬 Ask me about: React, JavaScript, Python, and REST APIs
 
